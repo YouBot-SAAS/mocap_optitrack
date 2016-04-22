@@ -26,7 +26,7 @@
 // Constants
 
 // ip on multicast group - cannot be changed in Arena
-const std::string MULTICAST_IP = "224.0.0.1";
+const std::string MULTICAST_IP = "239.255.42.99";
 
 const std::string MOCAP_MODEL_KEY = "mocap_model";
 const std::string RIGID_BODIES_KEY = "rigid_bodies";

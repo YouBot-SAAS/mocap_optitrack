@@ -70,7 +70,7 @@ class UdpMulticastSocket
     static const int MAXRECV = 3000;
 
     /// Creates a socket and joins the multicast group with the given address
-    UdpMulticastSocket( const int local_port, const std::string multicast_ip = "224.0.0.1" );
+    UdpMulticastSocket( const int local_port, const std::string multicast_ip = "239.255.42.99" );
     
     ///
     ~UdpMulticastSocket();
