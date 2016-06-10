@@ -3,7 +3,7 @@
 # Identifier corresponds to Trackable ID set in Tracking Tools
 #
 rigid_bodies:
-    '1':
+    '2':
         pose: youbot/pose
         pose2d: youbot/ground_pose
         child_frame_id: youbot/base_link
